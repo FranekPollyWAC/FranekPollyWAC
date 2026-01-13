@@ -4,7 +4,7 @@ About myself: My name is Franek in programming my main interest are video games 
 
 Quick guide about my profile. Each repository has technologies used to create it in repository description. To learn more about each of them please see the README file in desired repo. Some of the projects are made with special configuartion of development enviroment so there might me problems with setting up them on your own computer, but you can always download them and see the source code. Some projects have included demo video witch can be watched to see results of my work. On my github I upload to public ony projects that are finished and work well except for those with "(dev)" in description - this means that project in current uploaded state is working but I still add new features to it and work on it.
 
-Here is a video and image demo of my favourite project:
+Here is a demo of my favourite project:
 
 
 <img width="397.5" height="234" alt="Zrzut ekranu 2026-01-13 120456" src="https://github.com/user-attachments/assets/a9ef2700-1abf-4b14-97be-e5ce01c9019f" /> 
